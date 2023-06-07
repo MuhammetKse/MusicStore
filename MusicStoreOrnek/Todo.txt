@@ -1,0 +1,1 @@
+﻿  update Albums set AlbumArtUrl='images/kapak.png'

@@ -1,0 +1,42 @@
+﻿@model MusicStoreOrnek.Models.Album
+@{
+    Layout = null;
+}
+
+<h2>Albüm Ekle</h2>
+<br />
+<br />
+
+
+<form asp-action="Olustur" asp-controller="Store" method="post" enctype="multipart/form-data">
+    <div>
+        <p>Album Başlık</p>
+        @Html.TextBoxFor(kayit=>kayit.Title)
+        @*Price*@
+        <p>Fiyat</p>
+        @Html.TextAreaFor(kayit=>kayit.Price)
+        @*IsActive*@
+        <p>Aktif Mi</p>
+        <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+
+  @*      <div class="col-12">
+            <label>Dosya Adını Giriniz: </label>
+            <input asp-for="@Model.SingleFileModel.FileName" class="form-control" />
+            <span asp-validation-for="@Model.SingleFileModel.FileName" class="text-danger"></span>
+        </div>*@
+
+        <div class="col-12">
+            <label>Fotoğrafı Seçiniz: </label>
+            <input asp-for="@Model.SingleFileModel.File" class="form-control" />
+            <span asp-validation-for="@Model.SingleFileModel.FileName" class="text-danger"></span>
+        </div>
+
+        <div class="col-12">
+            <button type="submit">Kaydet</button>
+        </div>
+
+    </div>
+
+
+</form>
+

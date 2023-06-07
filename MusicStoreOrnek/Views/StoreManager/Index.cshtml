@@ -1,0 +1,28 @@
+﻿@model MusicStoreOrnek.Models.SingleFileModel 
+
+@{
+    ViewData["Title"] = "tekli dosya yükleme";
+}
+
+<form asp-action="Olustur2" asp-controller="Store" method="post" enctype="multipart/form-data">
+    <div>
+        <div class="col-12">
+            <label>Dosya Adını Giriniz: </label>
+            <input asp-for="FileName" class="form-control"/>
+            <span asp-validation-for="FileName" class="text-danger"></span>
+        </div>
+
+         <div class="col-12">
+            <label>Dosyayı Seçiniz: </label>
+            <input asp-for="File" class="form-control"/>
+            <span asp-validation-for="File" class="text-danger"></span>
+        </div>
+
+        <div class="col-12">
+            <button type="submit">Upload File</button>
+        </div>
+
+    </div>
+
+
+</form>

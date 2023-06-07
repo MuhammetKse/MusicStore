@@ -1,0 +1,597 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MusicStoreOrnek.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MusicStoreOrnek.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\css\\templatemo-hexashop.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-hexashop.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\.png",
+      "PackagePath": "staticwebassets\\images\\.png"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\545454.png",
+      "PackagePath": "staticwebassets\\images\\545454.png"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\abc.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\abc.jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\about-left-image.jpg",
+      "PackagePath": "staticwebassets\\images\\about-left-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\about-us-page-heading.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us-page-heading.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\baner-right-image-01.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\baner-right-image-02.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\baner-right-image-03.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\baner-right-image-04.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\copland.jpg",
+      "PackagePath": "staticwebassets\\images\\copland.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\dddd.png",
+      "PackagePath": "staticwebassets\\images\\dddd.png"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\explore-image-01.jpg",
+      "PackagePath": "staticwebassets\\images\\explore-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\explore-image-02.jpg",
+      "PackagePath": "staticwebassets\\images\\explore-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\instagram-01.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\instagram-02.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\instagram-03.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\instagram-04.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\instagram-05.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\instagram-06.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\jazz.jpg",
+      "PackagePath": "staticwebassets\\images\\jazz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\kapak.png",
+      "PackagePath": "staticwebassets\\images\\kapak.png"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\kid-01.jpg",
+      "PackagePath": "staticwebassets\\images\\kid-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\kid-02.jpg",
+      "PackagePath": "staticwebassets\\images\\kid-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\kid-03.jpg",
+      "PackagePath": "staticwebassets\\images\\kid-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\left-banner-image.jpg",
+      "PackagePath": "staticwebassets\\images\\left-banner-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\men-01.jpg",
+      "PackagePath": "staticwebassets\\images\\men-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\men-02.jpg",
+      "PackagePath": "staticwebassets\\images\\men-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\men-03.jpg",
+      "PackagePath": "staticwebassets\\images\\men-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\products-page-heading.jpg",
+      "PackagePath": "staticwebassets\\images\\products-page-heading.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\service-01.jpg",
+      "PackagePath": "staticwebassets\\images\\service-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\service-02.jpg",
+      "PackagePath": "staticwebassets\\images\\service-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\service-03.jpg",
+      "PackagePath": "staticwebassets\\images\\service-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\single-product-01.jpg",
+      "PackagePath": "staticwebassets\\images\\single-product-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\single-product-02.jpg",
+      "PackagePath": "staticwebassets\\images\\single-product-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\team-member-01.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\team-member-02.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\team-member-03.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\thebest.jpg",
+      "PackagePath": "staticwebassets\\images\\thebest.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\white-logo.png",
+      "PackagePath": "staticwebassets\\images\\white-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\women-01.jpg",
+      "PackagePath": "staticwebassets\\images\\women-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\women-02.jpg",
+      "PackagePath": "staticwebassets\\images\\women-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\images\\women-03.jpg",
+      "PackagePath": "staticwebassets\\images\\women-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\js\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\imgfix.min.js",
+      "PackagePath": "staticwebassets\\js\\imgfix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\quantity.js",
+      "PackagePath": "staticwebassets\\js\\quantity.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ARIBILGI\\Downloads\\MusicStoreOrnek\\MusicStoreOrnek\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MusicStoreOrnek.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MusicStoreOrnek.props",
+      "PackagePath": "build\\MusicStoreOrnek.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MusicStoreOrnek.props",
+      "PackagePath": "buildMultiTargeting\\MusicStoreOrnek.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MusicStoreOrnek.props",
+      "PackagePath": "buildTransitive\\MusicStoreOrnek.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
